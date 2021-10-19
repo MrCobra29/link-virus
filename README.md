@@ -7,7 +7,7 @@ cara membuat link virus
 pkg install bash
 pkg install git
 git clone https://github.com/MrCobra29/link-virus
-cd virus
 bash virus.sh
+bash 
 
 cara save
